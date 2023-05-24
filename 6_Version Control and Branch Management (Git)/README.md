@@ -1,4 +1,4 @@
-# (5) Version Control & Branch Management (git)
+# (6) Version Control & Branch Management (git)
 
 *******************
 Versioning adalah mengatur versi dari source code program yaitu fx
